@@ -4,7 +4,7 @@ public class exercicioOperadores {
 
 	public static void main(String[] args) {
 
-		//Obter um número de 3 dígitos e retornar a undade, dezena, centena
+		//Obter um número de 3 dígitos e retornar a unidade, dezena, centena
 		
 		int numero = (int) Math.round((Math.random()*899)+100);
 		System.out.println(numero);
